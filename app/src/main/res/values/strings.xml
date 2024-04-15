@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">Villa Basket</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="title_activity_home">HomeActivity</string>
 </resources>
